@@ -1,0 +1,15 @@
+<package>
+  <description brief="adk_linefollower_android">
+
+     adk_linefollower_android
+
+  </description>
+  <author>asher</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/adk_linefollower_android</url>
+  <depend package="rosserial_android"/>
+
+</package>
+
+

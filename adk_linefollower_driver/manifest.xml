@@ -1,0 +1,16 @@
+<package>
+  <description brief="adk_linefollower_driver">
+
+     adk_linefollower_driver
+
+  </description>
+  <author>asher</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/adk_linefollower_driver</url>
+  <depend package="rosserial_arduino"/>
+  <depend package="geometry_msgs"/>
+
+</package>
+
+
