@@ -52,7 +52,6 @@ void adk_spin(){
 		rxBufferIndex =0;
 		
 		if (txBufferIndex >= 0 ){
-			digitalWrite(13, HIGH-digitalRead(13));
 			acc.write(buffOut, txBufferIndex+1); //+1 to convert index to length
 			txBufferIndex =-1;
 		}
